@@ -24,5 +24,4 @@ FILE_TYPES = {
         ".exe", ".msi", ".apk",
         ".bat", ".py"
     ]
-
 }
